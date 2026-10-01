@@ -1,0 +1,13 @@
+# Pre-launch checklist
+- [ ] Approved pilot design is retained
+- [ ] No third-party logo or branded claim
+- [ ] Confirmed English rules checked
+- [ ] Only reviewed languages enabled
+- [ ] Site opens without sign-in
+- [ ] Android and iPhone tested
+- [ ] Mobile data and site Wi-Fi tested
+- [ ] Acknowledgement requires all three boxes
+- [ ] No driver details requested or stored
+- [ ] Final key-return warning visible
+- [ ] Paper fallback available
+- [ ] QR tested before bulk printing
